@@ -22,7 +22,7 @@ cd niri-tearing-toggle
 
 2. Run the installer script:
 ```bash
-./install.sh
+bash ./install.sh
 ```
 
 ## Configuration
