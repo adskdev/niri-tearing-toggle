@@ -16,7 +16,7 @@ Furthermore, if you try to toggle tearing using a GUI launcher or a shell script
 ## Installation
 1. Clone this repository:
 ```bash
-git clone [https://github.com/adskdev/niri-tearing-toggle.git](https://github.com/adskdev/niri-tearing-toggle.git)
+git clone https://github.com/adskdev/niri-tearing-toggle.git
 cd niri-tearing-toggle
 ```
 
